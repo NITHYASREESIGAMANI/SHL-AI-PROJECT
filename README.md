@@ -83,7 +83,7 @@ Sample Response
 Endpoint
 POST /chat
 Live API URL
-https://shl-ai-project-561w.onrender.com/chat
+https://shl-ai-project-561w.onrender.com/docs
 Request Body
 Use this JSON body inside POST request
 {
