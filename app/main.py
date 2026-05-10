@@ -54,6 +54,12 @@ class Message(BaseModel):
 class ChatRequest(BaseModel):
     messages: List[Message]
 
+@app.get("/")
+def root():
+    return {
+        "message": "SHL AI Recommendation API is running"
+    }
+
 
 # -----------------------------
 # HEALTH ENDPOINT
