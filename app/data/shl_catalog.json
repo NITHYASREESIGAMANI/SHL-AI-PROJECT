@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Java 8 (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+        "test_type": "K",
+        "skills": ["java", "backend", "programming"]
+    },
+    {
+        "name": "Core Java Entry Level",
+        "url": "https://www.shl.com/",
+        "test_type": "K",
+        "skills": ["java", "developer"]
+    },
+    {
+        "name": "Python Programming Assessment",
+        "url": "https://www.shl.com/",
+        "test_type": "K",
+        "skills": ["python", "backend"]
+    },
+    {
+        "name": "Full Stack Developer Test",
+        "url": "https://www.shl.com/",
+        "test_type": "K",
+        "skills": ["developer", "javascript", "backend"]
+    },
+    {
+        "name": "Software Engineer Solution",
+        "url": "https://www.shl.com/",
+        "test_type": "K",
+        "skills": ["engineer", "software"]
+    },
+    {
+        "name": "Managerial Leadership Assessment",
+        "url": "https://www.shl.com/",
+        "test_type": "B",
+        "skills": ["management", "leadership"]
+    },
+    {
+        "name": "Sales Capability Test",
+        "url": "https://www.shl.com/",
+        "test_type": "B",
+        "skills": ["sales"]
+    }
+]
